@@ -1,0 +1,43 @@
+{
+    "NotasPiano": {
+       
+          "La":{
+            "La0" : { "nombre": "La", "frecuencia": 27.50, "octava": 0  },
+            "La♭0":{ "nombre": "La♭", "frecuencia":  29.14, "octava": 0 }
+           
+            
+           },
+           "Si":{
+            
+            "Si1": { "nombre": "Si1", "frecuencia": 61.74, "octava": 1}
+
+           },
+           "Do":{
+            "Do1" : { "nombre": "Do2", "frecuencia": 32.70, "octava": 1 },
+            "Do♭1": { "nombre": "Do♭2", "frecuencia":  34.65, "octava": 1 }
+
+           },
+           "Re":{
+            "Re1" : { "nombre": "Do2", "frecuencia": 36.71, "octava": 1},
+            "Re♭1": { "nombre": "Do3", "frecuencia": 38.89 , "octava": 1 }
+
+           },
+           "Mi":{
+              "Mi1" : { "nombre": "Do♯3", "frecuencia": 41.20, "octava": 1 }
+           },
+           "Fa":{
+            "Fa1" : { "nombre": "Do♭3", "frecuencia": 43.65 , "octava": 1 },
+            "Fa♭1":{"nombre": "Fa♭1", "frecuencia":46.25 , "octava":1}
+          },
+          "Sol":{
+            "So1": { "nombre": "So1", "frecuencia":  49.00, "octava": 1},
+            "So♭1": { "nombre": "So♭1", "frecuencia": 51.91 , "octava":1}
+          }
+
+      }
+      }
+      
+      
+      
+  
+  

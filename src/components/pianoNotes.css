@@ -1,0 +1,32 @@
+
+.piano {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+
+  .piano-key {
+    display: flex;
+    width: 15px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid #000;
+    cursor: pointer;
+   
+  }
+  
+  .piano-key.long-name {
+    background-color: black;
+    width: 7px;
+    height: 40px;
+    position: absolute;
+    margin-bottom: -30px;
+  }
+  
+  .key-label {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+  }
+  
+  
