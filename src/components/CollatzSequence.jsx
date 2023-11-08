@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { CollatzList } from './CollatzList';
-import "./sequencesContainer.css";
-import { GetLeftmostDigit } from "./GetLeftmost";
+import "./collatzList.css";
+// import { GetLeftmostDigit } from "./GetLeftmost";
 
 export const CollatzSequence = () => {
   const [number, setNumber] = useState(1);

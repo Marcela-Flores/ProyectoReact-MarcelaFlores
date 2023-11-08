@@ -1,8 +1,8 @@
 import React from 'react'
-import { NotasTipo } from './components/NotasTipo'
+import { CollatzSequence } from './components/CollatzSequence'
 
 export const App = () => {
   return (
-    <NotasTipo></NotasTipo>
+    <div>App</div>
   )
 }
