@@ -1,0 +1,12 @@
+.container {
+    color: antiquewhite;
+    width: 40rem;
+    height: 20rem;
+    font-size: 10px;
+    /* display: flex; */
+    justify-content: space-between;
+    margin: 5px;
+    background-color: rgb(25, 80, 80);
+    padding: 10px;
+    
+}
